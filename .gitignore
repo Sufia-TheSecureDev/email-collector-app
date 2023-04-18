@@ -4,7 +4,7 @@
 /public/hot
 /public/storage
 /public/robots.txt
-/public/email_collector_app.png
+/public/image/email_collector_app.png 
 /storage/*.key
 /vendor
 .env
