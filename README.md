@@ -23,4 +23,4 @@ ____
 - Jquery AJAX.
 
 
-__Here is simple video of my app [workflow !](https://www.linkedin.com/posts/sufia-akter-1b4689177_development-laravelframework-laravel10-activity-7053702533889855488-Sbq8?utm_source=share&utm_medium=member_desktop)__
+__Here is simple video of my app [workflow !](https://youtu.be/HKRdjE1A5AI)__
